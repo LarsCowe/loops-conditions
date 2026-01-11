@@ -11,6 +11,5 @@ try:
     elif leeftijd < 65:
         print("U bent een volwassene.")
     
-
 except ValueError:
     print("Ongeldige invoer. Voer een getal in.")
